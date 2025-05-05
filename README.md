@@ -1,4 +1,4 @@
-# work_timer_maya
+# work_timer
 
 A new Flutter project.
 
